@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ENUM.iml" filepath="$PROJECT_DIR$/ENUM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ENUM.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ENUM.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ENUM.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ENUM.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaMiddleLocal.iml" filepath="$PROJECT_DIR$/.idea/JavaMiddleLocal.iml" />
+    </modules>
+  </component>
+</project>

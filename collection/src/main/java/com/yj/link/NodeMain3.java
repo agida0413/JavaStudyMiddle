@@ -1,6 +1,6 @@
 package com.yj.link;
 
-public class NodeMain3 {
+public class  NodeMain3 {
     public static void main(String[] args) {
         Node first = new Node("A");
         first.next = new Node("B");

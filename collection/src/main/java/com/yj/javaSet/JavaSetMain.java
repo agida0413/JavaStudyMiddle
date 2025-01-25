@@ -5,7 +5,7 @@ import java.util.*;
 public class JavaSetMain {
     public static void main(String[] args) {
 
-        Set
+
 
         run(new HashSet<>());
         run(new LinkedHashSet<>());
